@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "xhale-app",
+    "slug": "xhale-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "xhale-app"
+}
